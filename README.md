@@ -1,7 +1,6 @@
 box-plots-for-education-reboot
 ==============================
-
-":chart_with_upwards_trend: :bar_chart: Analysis on budgets for schools for ML class' project. Originally, a competition by DrivenData https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/
+Analysis on budgets for schools for ML class' project. Originally, a competition by DrivenData https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/
 
 Project Organization
 ------------
